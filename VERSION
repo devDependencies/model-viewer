@@ -1,0 +1,5 @@
+commit 39a547a83c6b826a1ad2f119f5391f742cbac219
+Author: Bastian Sdorra <Bastian.SDORRA@3ds.com>
+Date:   Mon Sep 27 17:47:18 2021 +0200
+
+    Update dspbr-pt -> 0.3.4; Add goldens (#2820)
