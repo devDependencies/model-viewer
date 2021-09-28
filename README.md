@@ -1,3 +1,5 @@
+在网页渲染3D模型 支持常规格式 gitf glb
+
 # The `<model-viewer>` project
 
 This is the main Github repository for the `<model-viewer>` web component and
